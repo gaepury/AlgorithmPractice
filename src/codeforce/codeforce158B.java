@@ -54,7 +54,6 @@ public class codeforce158B {
 
 	public static void print(int taxinum) {
 		System.out.println(taxinum);
-		System.out.println();
 	}
 
 	public static void inputSi(Scanner s, int[] si) {
