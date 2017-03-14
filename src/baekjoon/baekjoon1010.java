@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class baekjoon1010 {
 	public static double[] result;
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner s = new Scanner(System.in);
@@ -28,7 +27,6 @@ public class baekjoon1010 {
 					// TODO: handle exception
 				}
 			}
-
 			result[i]=solution(N,M);
 		}
 		
@@ -36,9 +34,7 @@ public class baekjoon1010 {
 	}
 
 	public static double solution(int N, int M) {
-		
 		double result = factorial(M)/(factorial(N)*factorial(M-N));
-		
 		return result;
 	}
 	public static double factorial(long n){
