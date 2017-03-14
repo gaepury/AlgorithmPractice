@@ -12,7 +12,7 @@ public class codeforce339B {
 		Scanner s = new Scanner(System.in);
 		int[] workorder;
 
-		int result ;
+		long result ;
 		try {
 			n = s.nextInt();
 			m = s.nextInt();
@@ -34,8 +34,8 @@ public class codeforce339B {
 
 	}
 
-	public static int Ringroad(int[] workorder) {
-		int sum = 0;
+	public static long Ringroad(int[] workorder) {
+		long sum = 0;
 
 		for (int i = 0; i < workorder.length - 1; i++) {
 			if (workorder[i] > workorder[i + 1]) {
@@ -46,7 +46,7 @@ public class codeforce339B {
 		}
 		return sum;
 	}
-	public static void print(int result){
+	public static void print(long result){
 		System.out.println(result);
 	}
 }
