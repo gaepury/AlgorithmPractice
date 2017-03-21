@@ -1,8 +1,10 @@
-package codeforce;
+package codeforce.codeforce_3_17;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
+
+//3.14 Vanya and Lanterns
 public class codeforce492B {
 
 	public static void main(String[] args) {

@@ -1,7 +1,8 @@
-package codeforce;
+package codeforce.codeforce_3_3;
 
 import java.util.Scanner;
 
+//3.3 Way Too Long Words
 public class codeforce71A {
 
 	public static void main(String[] args) {
