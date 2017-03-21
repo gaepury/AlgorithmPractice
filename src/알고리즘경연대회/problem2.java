@@ -1,7 +1,8 @@
+package 알고리즘경연대회;
 import java.util.HashSet;
 import java.util.Iterator;
 
-public class test2 {
+public class problem2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
