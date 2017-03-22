@@ -1,9 +1,10 @@
-package codeforce;
+package codeforce.codeforce_3_17;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
+//3.14  Taxi
 public class codeforce158B {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);

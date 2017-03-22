@@ -1,5 +1,6 @@
+package 알고리즘경연대회;
 
-public class test3 {
+public class problem3 {
 	public static void main(String[] args) {
 		int[][] grid1 = new int[][]{{3,4,5},{2,3,4},{1,2,3}};
 		int[][] grid2 = new int[][]{{2,1,1,0,1},{1,2,0,3,0},{0,1,5,1,2},{0,0,1,3,1},{1,2,0,1,1}};

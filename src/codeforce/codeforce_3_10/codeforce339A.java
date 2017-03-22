@@ -1,7 +1,8 @@
-package codeforce;
+package codeforce.codeforce_3_10;
 import java.util.Arrays;
 import java.util.Scanner;
 
+//3.10 Helpful Maths
 public class codeforce339A {
 	public static void main(String[] args) {
 

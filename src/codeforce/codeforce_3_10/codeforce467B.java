@@ -1,6 +1,8 @@
-package codeforce;
+package codeforce.codeforce_3_10;
 import java.util.Scanner;
 
+
+//3.10 Fedor and New Game
 public class codeforce467B {
 
 	public static void main(String[] args) {

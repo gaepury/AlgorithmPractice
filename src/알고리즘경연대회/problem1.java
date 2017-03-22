@@ -1,8 +1,9 @@
+package 알고리즘경연대회;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class test1 {
+public class problem1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

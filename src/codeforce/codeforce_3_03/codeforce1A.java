@@ -1,6 +1,8 @@
-package codeforce;
+package codeforce.codeforce_3_03;
 import java.util.Scanner;
 
+
+//3.3 Theatre Square
 public class codeforce1A {
 
 	public static void main(String[] args) {

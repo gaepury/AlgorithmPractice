@@ -1,8 +1,9 @@
-package codeforce;
+package codeforce.codeforce_3_17;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
+//3.14 Xenia and Ringroad
 public class codeforce339B {
 	public static int n;
 	public static int m;

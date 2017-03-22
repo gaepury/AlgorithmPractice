@@ -1,5 +1,7 @@
-package codeforce;
+package codeforce.codeforce_3_10;
 import java.util.Scanner;
+
+//3.10 Queue at the School
 
 public class codeforce266B {
 	public static void main(String[] args) {
