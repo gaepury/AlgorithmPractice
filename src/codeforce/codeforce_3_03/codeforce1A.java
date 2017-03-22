@@ -1,4 +1,4 @@
-package codeforce.codeforce_3_3;
+package codeforce.codeforce_3_03;
 import java.util.Scanner;
 
 
