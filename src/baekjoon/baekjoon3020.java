@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.util.TreeMap;
 
 //°³¶Ë¹ú·¹
-public class backjoon3020 {
+public class baekjoon3020 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -99,7 +99,7 @@ public class backjoon3020 {
 //					System.out.println("t:"+top);
 					resultbyH[i-1]=bottom+top;
 				}
-				
+				System.out.println(Arrays.toString(resultbyH));
 				Arrays.sort(resultbyH);
 				ArrayList result=new ArrayList(Arrays.asList(resultbyH));
 				System.out.println(result);

@@ -3,7 +3,7 @@ package baekjoon;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Dynamic10942Second {
+public class Dynamic10942Solution {
 
 	static int[] number = new int[2001];
 	

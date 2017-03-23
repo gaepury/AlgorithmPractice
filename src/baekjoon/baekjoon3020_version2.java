@@ -5,7 +5,7 @@ import java.util.Collection;
 import java.util.Scanner;
 
 //°³¶Ë¹ú·¹
-public class backjoon3020_version2 {
+public class baekjoon3020_version2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
