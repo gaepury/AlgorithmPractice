@@ -14,12 +14,13 @@ public class backjoon1260my2 {
 		Scanner s = new Scanner(System.in);
 		int N, M, V;// N:정점의개수, M:간선의개수, V:시작점
 		boolean[] v_node;
+		int a,b; // 간선이 연결하는 두 정점;
 		try {
 			N = s.nextInt();
 			M = s.nextInt();
 			V = s.nextInt();
 
-			if (N < 1 && N > 1000 && M < 1 && M > 10000) {
+			if (N < 1 || N > 1000 || M < 1 || M > 10000){
 				new Exception();
 			} else {
 				v_node = new boolean[N + 1];
@@ -30,11 +31,10 @@ public class backjoon1260my2 {
 				}
 
 				for (int i = 0; i < M; i++) {
-					int a = s.nextInt();
-					int b = s.nextInt();
+					a = s.nextInt();
+					b = s.nextInt();
 					graph[a].add(b);
 					graph[b].add(a);
-					
 				}
 				
 				for (int i = 1; i <= graph.length-1; i++) {
@@ -85,7 +85,7 @@ public class backjoon1260my2 {
 		q.add(start);
 
 		while (!q.isEmpty()) { // queue가 비어있을 때까지 계속 반복
-			
+
 			int x = q.remove();// 큐에서 하나 빼서 x를 저장
 			System.out.print(x + " ");
 			

@@ -38,14 +38,15 @@ public class codeforce490B {
 				Arrays.sort(f_order_temp);
 				Arrays.sort(s_order_temp);
 
+				//rank매기기(순위매기기)
 				int[] rank = new int[n];
 				for (int i = 0; i < rank.length; i++) {
 					rank[i] = Arrays.binarySearch(f_order_temp, f_order[i]);
 				}
-
+				
 				// System.out.println(Arrays.toString(rank));
 
-				
+				// 첫번째 열 기준으로 소팅하기 위해 필요.
 				int[] s2_order_temp = new int[n]; //첫번째 행 소팅한거에 맞게 두번째 행 연결
 				int id = 0;
 				for (int i : rank) {
@@ -55,9 +56,12 @@ public class codeforce490B {
 				}
 
 				// System.out.println(Arrays.toString(s2_order_temp));
-				int head = 0;
-				int index_1 = 0;
-				int index_2 = 0;
+				int head = 0; //첫번째 위치값
+				
+				int index_1 = 0; //첫번째 위치의 인덱스
+				int index_2 = 0; //두번째 위치의 인덱스
+				
+				
 				for (int i = 0; i < n; i++) { // 첫번째 인덱스 값 찾음. index_1=0 이 됨.
 					int index = Arrays.binarySearch(s_order_temp, f_order_temp[i]);
 					if (index < 0) {
@@ -66,13 +70,14 @@ public class codeforce490B {
 					}
 				}
 				
-				index_1 = Arrays.binarySearch(f_order_temp, head); //92가 있는 위치
+				index_1 = Arrays.binarySearch(f_order_temp, head); //92가 있는 위치 = head
 				index_2 = Arrays.binarySearch(f_order_temp, 0);  //0이 잇는 위치
 
 				// System.out.println(index_1+","+index_2);
-
-				result[0] = f_order_temp[index_1]; 
-				result[1] = s2_order_temp[index_2];
+//				result[0] = head;
+//				System.out.println(head);
+				result[0] = f_order_temp[index_1]; //첫번째 값 삽입 (두번째열이랑 첫번째열 비교해서 첫번째열만 있는수)
+				result[1] = s2_order_temp[index_2]; //두번째값 삽입(첫번째 열이 0인거)
 
 				//head 에서 두칸 씩 뛰면서 insert
 				for (int i = 2; i < n; i = i + 2) {

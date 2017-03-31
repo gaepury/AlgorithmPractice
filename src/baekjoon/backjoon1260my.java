@@ -19,7 +19,7 @@ public class backjoon1260my {
 			M = s.nextInt();
 			V = s.nextInt();
 
-			if (N < 1 && N > 1000 && M < 1 && M > 10000) {
+			if (N < 1 || N > 1000 || M < 1 || M > 10000) {
 				new Exception();
 			} else {
 				v_node = new boolean[N + 1];
@@ -33,13 +33,14 @@ public class backjoon1260my {
 				}
 				
 				// System.out.print("DFS:");
-				dfs(v_node, edge_map, V);
+				dfs(v_node, edge_map, V); 
 				System.out.println();
 
 				Arrays.fill(v_node, false); // 초기화
 
 				// System.out.printf("BFS:");
 				bfs(v_node, edge_map, V);
+				
 			}
 		} catch (Exception e) {
 			// TODO: handle exception
@@ -64,7 +65,7 @@ public class backjoon1260my {
 
 		v_node[start] = true;
 		q.add(start);
-	
+		
 		while (!q.isEmpty()) {
 			int x = q.remove();// 큐에서 하나 빼서 x를 저장
 			System.out.print(x + " ");
