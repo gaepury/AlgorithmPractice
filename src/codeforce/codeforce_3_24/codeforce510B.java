@@ -5,7 +5,7 @@ import java.util.Scanner;
 import java.util.Stack;
 
 
-// 3.21 C. Woodcutters
+// 3.21 B. Fox And Two Dots
 public class codeforce510B {
 	static int[][] move = new int[][] { { 1, 0 }, { 0, 1 }, { -1, 0 }, { 0, -1 } };
 	static Stack<coordinates> stack = new Stack<coordinates>();
