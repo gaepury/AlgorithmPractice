@@ -72,22 +72,26 @@ public class codeforce490B {
 				
 				index_1 = Arrays.binarySearch(f_order_temp, head); //92가 있는 위치 = head
 				index_2 = Arrays.binarySearch(f_order_temp, 0);  //0이 잇는 위치
-
+//				System.out.println(index_2);
 				// System.out.println(index_1+","+index_2);
 //				result[0] = head;
 //				System.out.println(head);
 				result[0] = f_order_temp[index_1]; //첫번째 값 삽입 (두번째열이랑 첫번째열 비교해서 첫번째열만 있는수)
-				result[1] = s2_order_temp[index_2]; //두번째값 삽입(첫번째 열이 0인거)
+				result[1] = s2_order_temp[index_2]; //두번째값 삽입(첫번째 열이 0인거의 매칭되는 두번째열 값)
+
 
 				//head 에서 두칸 씩 뛰면서 insert
 				for (int i = 2; i < n; i = i + 2) {
+//					System.out.println(index_1);
 					result[i] = s2_order_temp[index_1];
 					index_1 = Arrays.binarySearch(f_order_temp, result[i]);
 				}
 				
 				//head+1에서 두칸 씩 뛰면서 insert
 				for (int i = 3; i < n; i = i + 2) {
+//					System.out.println(index_2);
 					index_2 = Arrays.binarySearch(f_order_temp, result[i - 2]);
+//					System.out.println(index_2);
 					result[i] = s2_order_temp[index_2];
 				}
 

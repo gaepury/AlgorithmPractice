@@ -1,8 +1,6 @@
-package codeforce.codeforce_3_31;
+package codeforce.codeforce_4_07;
 
-
-//3.28 A. Xor-tree
-public class codeforce429A {
+public class codeforce604B {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
