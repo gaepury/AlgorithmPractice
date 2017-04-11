@@ -4,8 +4,8 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
-
-public class backjoon1260my {
+//DFS¿Í BFS
+public class Baekjoon1260my {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

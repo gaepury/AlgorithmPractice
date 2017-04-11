@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class backjoon1260my2 {
+public class Baekjoon1260my2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

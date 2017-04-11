@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.util.TreeMap;
 
 //°³¶Ë¹ú·¹
-public class baekjoon3020 {
+public class Baekjoon3020 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

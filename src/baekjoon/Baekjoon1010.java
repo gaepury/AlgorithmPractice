@@ -1,8 +1,8 @@
 package baekjoon;
 
 import java.util.Scanner;
-
-public class baekjoon1010 {
+//다리 놓기
+public class Baekjoon1010 {
 	public static double[] result;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

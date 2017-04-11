@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.math;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,8 +6,8 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Scanner;
-
-public class Math1902 {
+//ทฅวม
+public class Baekjoon1902 {
 	static int[] num = new int[100001];
 
 	public static void main(String[] args) {

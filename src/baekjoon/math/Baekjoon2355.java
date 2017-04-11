@@ -1,8 +1,8 @@
-package baekjoon;
+package baekjoon.math;
 
 import java.util.Scanner;
-
-public class Math2355 {
+//½Ã±×¸¶
+public class Baekjoon2355 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

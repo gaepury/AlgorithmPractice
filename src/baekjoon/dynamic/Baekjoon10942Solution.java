@@ -1,9 +1,9 @@
-package baekjoon;
+package baekjoon.dynamic;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Dynamic10942Solution {
+public class Baekjoon10942Solution {
 
 	static int[] number = new int[2001];
 	

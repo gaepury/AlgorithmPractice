@@ -1,10 +1,10 @@
-package baekjoon;
+package baekjoon.dynamic;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
 //1로 만들기 . 최소 횟수
-public class Dynamic1463Solution {
+public class Baekjoon1463Solution {
 	static int[] Dp = new int[1000001];
 
 	public static void main(String[] args) {

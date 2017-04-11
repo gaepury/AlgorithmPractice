@@ -1,10 +1,10 @@
-package baekjoon;
+package baekjoon.dynamic;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
 //1로 만들기 . 최소 횟수
-public class Dynamic1463 {
+public class Baekjoon1463 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

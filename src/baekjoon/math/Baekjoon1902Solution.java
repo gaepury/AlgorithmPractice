@@ -1,9 +1,9 @@
-package baekjoon;
+package baekjoon.math;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Math1902Solution {
+public class Baekjoon1902Solution {
 	static int[] num=new int[100001];
 	static int[] d=new int[100001];
 	public static void main(String[] args) {

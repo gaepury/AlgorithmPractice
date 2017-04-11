@@ -1,9 +1,9 @@
-package baekjoon;
+package baekjoon.dynamic;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
-public class Dynamic10942 {
+//ÆÓ¸°µå·Ò?
+public class Baekjoon10942 {
 	static int N;
 	static int[] number = new int[2001];
 	static int M;

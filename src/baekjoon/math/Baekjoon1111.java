@@ -1,8 +1,8 @@
-package baekjoon;
+package baekjoon.math;
 
 import java.util.Scanner;
-
-public class Math1111 {
+//IQ Test
+public class Baekjoon1111 {
 	static int[] arr;
 	static boolean[] b;
 	public static void main(String[] args) {

@@ -3,8 +3,8 @@ package baekjoon;
 import java.util.Arrays;
 import java.util.Scanner;
 import java.util.Stack;
-
-public class baekjoon9012 {
+//°ýÈ£
+public class Baekjoon9012 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

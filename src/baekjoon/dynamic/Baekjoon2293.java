@@ -1,8 +1,8 @@
-package baekjoon;
+package baekjoon.dynamic;
 
 import java.util.Scanner;
 //동전1 , 입력받은 동전으로 합해서 k를 만들수 있는 경우의 수 구하기
-public class Dynamic2293 {
+public class Baekjoon2293 {
 	static int[] coin;
 	static int[] Dp;
 	static int n, k;

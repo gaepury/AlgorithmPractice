@@ -1,9 +1,9 @@
-package baekjoon;
+package baekjoon.dynamic;
 
 import java.util.Scanner;
 
 //fibonacci 함수호출 횟수 구하기
-public class Dynamic1003 {
+public class Baekjoon1003 {
 	private static int count1 = 0;
 	private static int count2 = 0;
 
