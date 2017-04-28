@@ -35,7 +35,7 @@ public class Baekjoon1003 {
 		}
 		int a = 1;
 		a = a();
-		System.out.println(a);
+//		System.out.println(a);
 	}
 
 	public static int fibonacci(int n) {

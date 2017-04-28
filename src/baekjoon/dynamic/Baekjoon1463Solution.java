@@ -27,6 +27,7 @@ public class Baekjoon1463Solution {
 			}
 		}
 
+		//bottom up
 		for (int i = 2; i <= N; i++) {
 			Dp[i] = Dp[i - 1] + 1;
 

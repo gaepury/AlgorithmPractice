@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.search;
 
 import java.util.Arrays;
 import java.util.LinkedList;
@@ -52,7 +52,7 @@ public class Baekjoon1260my {
 
 		v_node[start] = true;
 		System.out.print(start + " ");
-
+		
 		for (int i = 1; i <= v_node.length - 1; i++) { // v_node.length´Â N+1
 			if (v_node[i] == false && edge_map[start][i] == true) {
 				dfs(v_node, edge_map, i);

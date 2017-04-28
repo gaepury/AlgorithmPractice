@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.search;
 
 import java.util.ArrayList;
 import java.util.Arrays;
