@@ -1,10 +1,10 @@
-package 알고리즘경연대회;
+package AlgorithmContest;
 
-public class test3 {
+public class test2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("3");
+		System.out.println("a");
 	}
 
 }

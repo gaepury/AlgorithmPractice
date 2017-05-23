@@ -1,4 +1,4 @@
-package 알고리즘경연대회;
+package AlgorithmContest;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package ¾Ë°í¸®Áò°æ¿¬´ëÈ¸;
+package AlgorithmContest;
 
 public class problem3 {
 	public static void main(String[] args) {
@@ -44,7 +44,7 @@ public class problem3 {
 		
 		
 	}
-	//Á¤»ç°¢Çü ³ÐÀÌ 
+	//ï¿½ï¿½ï¿½ç°¢ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 
 	public static int calwidth(int[][] grid,int k,int row,int col){
 		int sum=0;
 		if(row+k-1>grid.length-1 || col+k-1>grid[0].length-1){
