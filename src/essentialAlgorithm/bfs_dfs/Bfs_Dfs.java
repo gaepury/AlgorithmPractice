@@ -1,4 +1,4 @@
-package essential.bfs_dfs;
+package essentialAlgorithm.bfs_dfs;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -28,7 +28,7 @@ public class Bfs_Dfs {
 				for (int i = 1; i <= graph.length-1; i++) {
 					graph[i]=new ArrayList<Integer>();
 				}
-
+					
 				for (int i = 0; i < M; i++) {
 					a = s.nextInt();
 					b = s.nextInt();
@@ -55,7 +55,6 @@ public class Bfs_Dfs {
 
 	}
 	// DFS로 돌리는 함수
-
 	// DFS란 깊이우선탐색, 재귀 함수 사용
 	public static void dfs(boolean[] v_node, ArrayList<Integer>[] group, int x) {
 		// 우선 start점의 방문여부를 true로 수정

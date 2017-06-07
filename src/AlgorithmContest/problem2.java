@@ -14,7 +14,6 @@ public class problem2 {
 		int result;
 		HashSet hs=new HashSet();
 		
-		
 		for(int i=0;i<land2.length;i++){
 			for(int j=0;j<land2[0].length;j++){
 				hs.add(land2[i][j]);

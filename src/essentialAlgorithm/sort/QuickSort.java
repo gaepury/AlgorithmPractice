@@ -1,4 +1,4 @@
-package essential.sort;
+package essentialAlgorithm.sort;
 
 public class QuickSort {
 	public static void main(String[] args) {

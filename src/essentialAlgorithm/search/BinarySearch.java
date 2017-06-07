@@ -1,4 +1,4 @@
-package essential.search;
+package essentialAlgorithm.search;
 
 import java.util.Arrays;
 

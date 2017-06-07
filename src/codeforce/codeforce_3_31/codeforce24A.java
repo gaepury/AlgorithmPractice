@@ -18,7 +18,6 @@ public class codeforce24A {
 			int a,b,c;
 			//방문노드여부
 			
-			
 			if(n<3 || n>100){
 				throw new Exception();
 			}else{

@@ -1,4 +1,4 @@
-package essential.dilkstra;
+package essentialAlgorithm.dilkstra;
 
 import java.util.*;
  
