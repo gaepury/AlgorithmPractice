@@ -2,100 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c13280d-d596-42ad-8f33-fa16608689d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AlgorithmPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/user.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/leetcode.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/university class/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/university class/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/university class/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/university class/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/university class/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/university class/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/park_train.arff" beforeDir="false" afterPath="$PROJECT_DIR$/university class/park_train.arff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmContest/problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/AlgorithmContest/problem1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmContest/problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/AlgorithmContest/problem2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmContest/problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/AlgorithmContest/problem3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmContest/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/AlgorithmContest/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmContest/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/AlgorithmContest/test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmContest/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/AlgorithmContest/test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OSPrograming/SemaphoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/OSPrograming/SemaphoreTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/Baekjoon1010.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/Baekjoon1010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/Baekjoon3020.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/Baekjoon3020.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/Baekjoon3020_version2.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/Baekjoon3020_version2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/Baekjoon3020_version3.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/Baekjoon3020_version3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/Baekjoon9012.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/Baekjoon9012.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/bitmask/Baekjoon11723.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/bitmask/Baekjoon11723.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon1003.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon1003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon10844.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon10844.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon10942.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon10942.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon10942Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon10942Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon11052.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon11052.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon11057.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon11057.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon11726_bottomup.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon11726_bottomup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon11726_topdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon11726_topdown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon11727.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon11727.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon1463.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon1463.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon1463Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon1463Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon2156.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon2156.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon2193.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon2193.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon2293.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon2293.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon2293Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon2293Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon9095.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon9095.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/dynamic/Baekjoon9465.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/dynamic/Baekjoon9465.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/math/Baekjoon1111.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/math/Baekjoon1111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/math/Baekjoon1902.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/math/Baekjoon1902.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/math/Baekjoon1902Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/math/Baekjoon1902Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/math/Baekjoon2355.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/math/Baekjoon2355.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/search/Baekjoon1107.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/search/Baekjoon1107.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/search/Baekjoon1260my.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/search/Baekjoon1260my.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/search/Baekjoon1260my2.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/search/Baekjoon1260my2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/search/Baekjoon9019.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/baekjoon/search/Baekjoon9019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_3_03/codeforce1A.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_3_03/codeforce1A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_3_03/codeforce71A.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_3_03/codeforce71A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_3_10/codeforce266B.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_3_10/codeforce266B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_3_10/codeforce339A.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_3_10/codeforce339A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_3_10/codeforce467B.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_3_10/codeforce467B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_3_17/codeforce158B.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_3_17/codeforce158B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_3_17/codeforce339B.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_3_17/codeforce339B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_3_17/codeforce492B.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_3_17/codeforce492B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_3_24/codeforce490B.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_3_24/codeforce490B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_3_24/codeforce510B.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_3_24/codeforce510B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_3_24/codeforce545C.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_3_24/codeforce545C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_3_31/codeforce103B.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_3_31/codeforce103B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_3_31/codeforce24A.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_3_31/codeforce24A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_3_31/codeforce429A.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_3_31/codeforce429A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_4_07/codeforce107A.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_4_07/codeforce107A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_4_07/codeforce604B.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_4_07/codeforce604B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_4_07/codeforce707B.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_4_07/codeforce707B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_4_14/codeforce158C.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_4_14/codeforce158C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_4_14/codeforce437C.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_4_14/codeforce437C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_4_14/codeforce545E.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_4_14/codeforce545E.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_4_28/codeforce313B.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_4_28/codeforce313B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_4_28/codeforce327A.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_4_28/codeforce327A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforce/codeforce_4_28/codeforce455A.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeforce/codeforce_4_28/codeforce455A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeground/Problem21.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/codeground/Problem21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/csvProc.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/csvProc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/essentialAlgorithm/bfs_dfs/Bfs_Dfs.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/essentialAlgorithm/bfs_dfs/Bfs_Dfs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/essentialAlgorithm/dilkstra/Dilkstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/essentialAlgorithm/dilkstra/Dilkstra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/essentialAlgorithm/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/essentialAlgorithm/linkedlist/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/essentialAlgorithm/queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/essentialAlgorithm/queue/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/essentialAlgorithm/search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/essentialAlgorithm/search/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/essentialAlgorithm/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/essentialAlgorithm/sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/essentialAlgorithm/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/essentialAlgorithm/sort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/essentialAlgorithm/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/essentialAlgorithm/sort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/essentialAlgorithm/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/essentialAlgorithm/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/essentialAlgorithm/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/essentialAlgorithm/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/essentialAlgorithm/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/essentialAlgorithm/sort/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/essentialAlgorithm/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/essentialAlgorithm/stack/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trycatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/university class/src/trycatch.java" afterDir="false" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/src/leetcode.js" afterPath="$PROJECT_DIR$/leetcode/src/leetcode.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,14 +17,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file leaf-file-name="leetcode.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leetcode/src/leetcode.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="143" column="13" lean-forward="true" selection-start-line="143" selection-start-column="13" selection-end-line="143" selection-end-column="13" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="186">
+              <caret line="1059" column="50" lean-forward="false" selection-start-line="1059" selection-start-column="50" selection-end-line="1059" selection-end-column="50" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -137,6 +46,8 @@
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>false</service-enabled>
     <exe-path />
@@ -144,16 +55,33 @@
     <other-services-enabled>false</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1443" />
-    <option name="height" value="879" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="225" />
+    <option name="y" value="28" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,11 +89,21 @@
               <item name="AlgorithmPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmPractice" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AlgorithmPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -179,6 +117,7 @@
     <property name="project.structure.proportion" value="0.14825828" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -231,6 +170,9 @@
       </method>
     </configuration>
   </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -241,62 +183,63 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573019942368</updated>
-      <workItem from="1573019943742" duration="207000" />
+      <workItem from="1573019943742" duration="884000" />
+      <workItem from="1583564735615" duration="53000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="207000" />
+    <option name="totallyTimeSpent" value="937000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <frame x="225" y="28" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23482428" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" />
-      <window_info anchor="bottom" id="SBT Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32953367" />
-      <window_info anchor="bottom" id="CheckStyle" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Tail" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="RNConsole" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/leetcode/src/leetcode.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="143" column="13" lean-forward="true" selection-start-line="143" selection-start-column="13" selection-end-line="143" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="2190">
+          <caret line="146" column="11" lean-forward="true" selection-start-line="146" selection-start-column="11" selection-end-line="146" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/leetcode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="1059" column="50" lean-forward="false" selection-start-line="1059" selection-start-column="50" selection-end-line="1059" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
