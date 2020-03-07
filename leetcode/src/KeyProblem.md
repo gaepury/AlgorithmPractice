@@ -2,15 +2,15 @@
 ### Array
 
 - [ ] Two Sum - https://leetcode.com/problems/two-sum/
-- [ ] Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- [x] Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - [ ] Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
 - [ ] Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
-- [ ] Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
+- [x] Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
 - [ ] Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
 - [ ] Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-- [ ] Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
+- [x] Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - [ ] 3Sum - https://leetcode.com/problems/3sum/
-- [ ] Container With Most Water - https://leetcode.com/problems/container-with-most-water/
+- [x] Container With Most Water - https://leetcode.com/problems/container-with-most-water/
 
 ---
 
@@ -18,7 +18,7 @@
 
 - [ ] Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
 - [ ] Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
-- [ ] Counting Bits - https://leetcode.com/problems/counting-bits/
+- [x] Counting Bits - https://leetcode.com/problems/counting-bits/
 - [ ] Missing Number - https://leetcode.com/problems/missing-number/
 - [ ] Reverse Bits - https://leetcode.com/problems/reverse-bits/
 
@@ -27,13 +27,13 @@
 ### Dynamic Programming
 
 - [ ] Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
-- [ ] Coin Change - https://leetcode.com/problems/coin-change/
+- [x] Coin Change - https://leetcode.com/problems/coin-change/
 - [ ] Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
 - [ ] Longest Common Subsequence -
 - [ ] Word Break Problem - https://leetcode.com/problems/word-break/
-- [ ] Combination Sum - https://leetcode.com/problems/combination-sum-iv/
-- [ ] House Robber - https://leetcode.com/problems/house-robber/
-- [ ] House Robber II - https://leetcode.com/problems/house-robber-ii/
+- [x] Combination Sum - https://leetcode.com/problems/combination-sum-iv/
+- [x] House Robber - https://leetcode.com/problems/house-robber/
+- [x] House Robber II - https://leetcode.com/problems/house-robber-ii/
 - [ ] Decode Ways - https://leetcode.com/problems/decode-ways/
 - [ ] Unique Paths - https://leetcode.com/problems/unique-paths/
 - [ ] Jump Game - https://leetcode.com/problems/jump-game/
@@ -43,7 +43,7 @@
 ### Graph
 
 - [ ] Clone Graph - https://leetcode.com/problems/clone-graph/
-- [ ] Course Schedule - https://leetcode.com/problems/course-schedule/
+- [x] Course Schedule - https://leetcode.com/problems/course-schedule/
 - [ ] Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
 - [ ] Number of Islands - https://leetcode.com/problems/number-of-islands/
 - [ ] Longest Consecutive Sequence - https://leetcode.com/problems/longest-consecutive-sequence/
@@ -53,7 +53,7 @@
 
 ---
 
-Interval
+### Interval
 
 - [ ] Insert Interval - https://leetcode.com/problems/insert-interval/
 - [ ] Merge Intervals - https://leetcode.com/problems/merge-intervals/
@@ -65,7 +65,7 @@ Interval
 
 ### Linked List
 
-- [ ] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
+- [x] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
 - [ ] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
 - [ ] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
@@ -76,9 +76,9 @@ Interval
 
 ### Matrix
 
-- [ ] Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
+- [x] Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
 - [ ] Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
-- [ ] Rotate Image - https://leetcode.com/problems/rotate-image/
+- [x] Rotate Image - https://leetcode.com/problems/rotate-image/
 - [ ] Word Search - https://leetcode.com/problems/word-search/
 
 ---
@@ -111,7 +111,7 @@ Interval
 - [ ] Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/
 - [ ] Kth Smallest Element in a BST - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - [ ] Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
-- [ ] Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
+- [x] Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
 - [ ] Add and Search Word - https://leetcode.com/problems/add-and-search-word-data-structure-design/
 - [ ] Word Search II - https://leetcode.com/problems/word-search-ii/
 
@@ -120,5 +120,5 @@ Interval
 ### Heap
 
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
-- [ ] Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
+- [x] Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
 - [ ] Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
